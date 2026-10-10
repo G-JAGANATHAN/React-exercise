@@ -4,10 +4,11 @@ import './App.css';
 //import Counter from "./component/counterApp"
 //import StudentDashboard from "./component/useEffect"
 //import Stopwatch from "./component/StopWatch"
-import FocusName from "./component/useRef"
+//import FocusName from "./component/useRef"
+import Student from "./component/StudentDirectory"
 function App() {
     return(
-        <FocusName/>
+        <Student/>
     )
 }
 export default App

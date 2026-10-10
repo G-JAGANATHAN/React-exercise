@@ -27,7 +27,7 @@
 // import {Child} from './Child';
 
 // function App() {
-//   const [count, setCount] = useState(0);
+//   const [count, setCount] = useState(0)
 //   const [maxLimit, setMaxLimit] = useState(null);
   
 //   const styles = {
